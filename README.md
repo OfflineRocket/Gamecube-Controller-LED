@@ -2,6 +2,13 @@
 A modded Gamecube controllers, to have all the original button colours, but in a LED form instead
 
 
+## Support Me!
+[See the stuff I build and support me here!](https://linktr.ee/Lego_Rocket)
+
+## Hardware
+
+## Features
+
 ## License Information:
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
