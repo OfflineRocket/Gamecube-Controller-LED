@@ -3,7 +3,7 @@ A modded Gamecube controllers, to have all the original button colours, but in a
 
 A simple project, however it still is a project I am proud of. The mod still holds up today, and is a simple but interesting mod. While some controller mods are excessive and extravagent, this was a simple mod to make it unique, but not distasteful.
 
-Originally this was posted as an instructables guide. It has been posted here to consolodate my creations together.
+Originally this was posted as an [instructables guide.](https://www.instructables.com/Gamecube-Controller-LED-Mod/) It has been posted here to consolodate my creations together.
 
 ## Support Me!
 [See the stuff I build and support me here!](https://linktr.ee/Lego_Rocket)
