@@ -22,7 +22,7 @@ Originally this was posted as an [instructables guide.](https://www.instructable
 
 ## Photos
 ### See more under the Photos Section
-![Photo2](/Photos/_MG_8359copy.JPG)
+![Photo2](/Photos/_MG_8359copy.jpg)
 ![Photo3](/Photos/IMG_8409.JPG)
 ![Photo4](/Photos/IMG_8385.JPG)
 
