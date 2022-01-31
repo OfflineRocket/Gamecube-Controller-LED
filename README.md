@@ -13,10 +13,18 @@ Originally this was posted as an [instructables guide.](https://www.instructable
 - Clear Custom Gamecube buttons
 - RGB LEDs strips (hardwired to be the original button colours)
 
+[!Photo1](/Photos/IMG_8349.JPG)
+
 ## Features
 - All original Gamecube controller functions (rumble still works)
 - LEDs, hardwired to the button colours
 - Always on LEDs
+
+## Photos
+### See more under the Photos Section
+[!Photo2](/Photos/_MG_8359copy.JPG)
+[!Photo3](/Photos/IMG_8409.JPG)
+[!Photo4](/Photos/IMG_8385.JPG)
 
 ## License Information:
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
